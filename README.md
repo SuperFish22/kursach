@@ -2,6 +2,6 @@
 ## Краткое описание 
 данное приложение создано для курсовое проекта для 
 
-![License](https://img.shields.io/badge/Version%2C1.0.0)
+![License](https://img.shields.io/badge/any_text-you_lik-blue)
 
 ## 
