@@ -2,5 +2,6 @@
 ## Краткое описание 
 данное приложение создано для курсовое проекта для 
 
-![License](https://img.shields.io/badge/:badgeContent)
+![License](https://img.shields.io/badge/Version%2C1.0.0)
+
 ## 
