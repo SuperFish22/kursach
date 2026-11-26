@@ -21,3 +21,19 @@ cd kursach
 npm io
 npm run dev
 ```
+
+## Инструкция по развертке 
+
+``` python
+cd kursach
+npm io
+npm run dev
+```
+
+## Документация 
+
+ТЗ 
+ЧТЗ 
+
+
+## Лицензию и контакты
